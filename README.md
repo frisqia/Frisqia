@@ -1,5 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/frisqia-fatmalaningsih-325967221/)
-[![Resume](https://img.shields.io/badge/Resume-View-red?style=flat&logo=google-drive)](https://docs.google.com/document/d/1nEDnag8t90e_RDDduG1zx_XXOUD-pLVCeEp7bp-xDbc/edit?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-red?style=flat&logo=google-drive)](https://docs.google.com/document/d/1dUH5zVyeLzPVeaTbayJYYZBNpC0kJJzoLY5Px6m7EMA/edit?usp=sharing)
   
 # Hello Everyone i'm Frisqia Fatmalaningsih
 
