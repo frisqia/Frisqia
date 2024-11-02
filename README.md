@@ -1,7 +1,10 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/frisqia-fatmalaningsih-325967221/)
-[![Resume](https://img.shields.io/badge/Resume-View-red?style=flat&logo=google-drive)](https://docs.google.com/document/d/1dUH5zVyeLzPVeaTbayJYYZBNpC0kJJzoLY5Px6m7EMA/edit?usp=sharing)
-  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-ff69b4?style=flat&logo=linkedin)](https://www.linkedin.com/in/frisqia-fatmalaningsih-325967221/)
+[![Resume](https://img.shields.io/badge/Resume-View-ff69b4?style=flat&logo=google-drive)](https://docs.google.com/document/d/1dUH5zVyeLzPVeaTbayJYYZBNpC0kJJzoLY5Px6m7EMA/edit?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-ff69b4?style=flat&logo=netlify)](https://67264cac60b79dcbcdb6c26e--frisqiafatmalaningsih.netlify.app/)
+
+
 # Hello Everyone i'm Frisqia Fatmalaningsih
+
 
 RevoU Boothcamp graduate
 
